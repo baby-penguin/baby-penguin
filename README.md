@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning java & point cloud
 - 📫 How to reach me: Email 51255901072@stu.ecnu.edu.cn if you have any question~
-- 🤔 Read more about my juejin https://juejin.cn/user/4151406843410664
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baby-penguin&layout=compact&theme=tokyonight)
 
